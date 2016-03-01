@@ -35,7 +35,7 @@ if (Meteor.isClient) {
             { id: "github", url: "https://github.com/itscaro", title: "Github" },
             { id: "linkedin", url: "https://www.linkedin.com/in/itscaro", title: "Linkedin" },
             { id: "viadeo", url: "http://www.viadeo.com/profile/0021r0s83i1nh0pu", title: "Viadeo" },
-            { id: "cv", url: "http://1drv.ms/20YI3no", title: "CV" },
+            { id: "cv", url: "http://1drv.ms/1XXdWYq", title: "CV" },
         ]
     });
 

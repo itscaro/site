@@ -14,15 +14,15 @@ header div#links a {
 }
 
 header div#links a#link-github {
-    background: url('images/github/GitHub-Mark-32px.png') no-repeat;
+    background: url('images/github.png') no-repeat;
 }
 
 header div#links a#link-linkedin {
-    background: url('images/linkedin/2-Color/In-2C-34px-R.png') no-repeat;
+    background: url('images/linkedin.png') no-repeat;
 }
 
 header div#links a#link-viadeo {
-    background: url('images/viadeo/ball.png') no-repeat;
+    background: url('images/viadeo.png') no-repeat;
 }
 
 header div#links a#link-cv {
